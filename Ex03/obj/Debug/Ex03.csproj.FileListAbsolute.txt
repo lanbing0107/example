@@ -1,0 +1,12 @@
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\bin\Debug\Ex03.exe.config
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\bin\Debug\Ex03.exe
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\bin\Debug\Ex03.pdb
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\obj\Debug\Ex03.Form1.resources
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\obj\Debug\Ex03.Properties.Resources.resources
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\obj\Debug\Ex03.csproj.GenerateResource.Cache
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\obj\Debug\Ex03.exe
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\obj\Debug\Ex03.pdb
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\Ex03\obj\Debug\Ex03.csprojResolveAssemblyReference.cache
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\example\Ex03\bin\Debug\Ex03.exe.config
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\example\Ex03\obj\Debug\Ex03.exe
+E:\王雪冰\工作\20180403_C#学习_wxb\P213\Ex03\example\Ex03\obj\Debug\Ex03.pdb
